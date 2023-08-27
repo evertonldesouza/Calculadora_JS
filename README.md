@@ -12,7 +12,7 @@ Calculadora criada utilizando HTML, CSS e JavaScript puro
 <br>
 
 <p align="center">
-  <img alt="Calculadora JS" src=".github/assets/img/project.png" width="100%">
+  <img alt="Calculadora JS" src="./assets/img/project.png" width="100%">
 </p>
 
 <br>
