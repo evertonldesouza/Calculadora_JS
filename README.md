@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
-Caso queira você pode navegar pelo projeto através [DESSE LINK](https://evertonldesouza.github.io/calculadora_js/).
+Caso queira você pode navegar pelo projeto através [DESSE LINK](https://www.evertondesouza.dev.br/Calculadora_JS/).
 
 <br>
 
